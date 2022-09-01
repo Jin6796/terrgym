@@ -52,7 +52,7 @@ function WorkoutApp() {
 
 export default WorkoutApp;
 
-// rsf : function으로 자동완성을 만들어준다
+// rsf : function으로 자동완성을 만들어준다 
 // 결론적으로 부모태그에서 하위태그로는 항상 어넺드닞 props를 통해서 값을 전달할 수 있다.
 // 다만 매번 파일마다 props를 전달해야 하므로 피로도가 높다. - 그래더 리덕스가 출현
 // 이벤트 처리도 위임하거나 전달이 가능하다.
